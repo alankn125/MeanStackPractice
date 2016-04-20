@@ -1,7 +1,7 @@
 {
-  "name": "name",
+  "name": "MeanStackPractice",
   "version": "1.0.0",
-  "description": "Practice",
+  "description": "Alan practices the MEAN stack.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
